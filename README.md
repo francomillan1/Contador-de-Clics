@@ -1,1 +1,1 @@
-Contador de Cliccs realizado con la libreria React.
+Contador de Cliccs realizado con la libreria React
